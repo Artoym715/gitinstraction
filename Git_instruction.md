@@ -39,6 +39,11 @@ git config --global user.email ваша почта@example.com
 
 ## 7. Журнал изменений
 
-Для просмотра журнала изминений выполните команду - `git log`
+Для просмотра журнала изминений выполните команду - `git log` (Показывает полное описание в журнале )
 
-<image src="img/gitlog.png" alt="Текст с описанием картинки">
+<image src="img/gitlog.png" alt="git log">
+
+Так же журнал можно отобразить в упращенном виде при помощм дполнительного флага - `git log --oneline`  
+<image src="img/gitlogoneline.png" alt="oneline">
+
+## 8. Переключение между версиями
