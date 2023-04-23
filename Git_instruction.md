@@ -47,7 +47,12 @@ git config --global user.email ваша почта@example.com
 <image src="img/gitlogoneline.png" alt="oneline">
 Что бы выйти из журнала в консоли нужно нажать клавишу - `Q`
 
-## 8. Переключение между версиями
+## 8. Переключение между версиями файла
 
 Выполните команду - `git checkout + хэш-код коммита`  
 Вернуться к актуальному состоянию и продолжить работу - `git checkout master`
+
+## 9. Просмотр разницы между файлом и закоммиченным файлом
+
+Выполните команду - `git diff`  
+<image src="img/gitdiff.png" alt="gitdiff">
