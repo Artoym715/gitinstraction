@@ -74,4 +74,4 @@ git config --global user.email ваша почта@example.com
 1. вариант - `git checkout + имя ветки` .
 2. вариант - `git switch + имя ветки` .
 
-Для возврата в основной файл выполните команду - `git switch -` .
+Для возврата в основную ветку выполните команду - `git switch -` .
