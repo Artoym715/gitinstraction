@@ -1,3 +1,5 @@
+<image src="img\gitandgithub logo.png" alt="Logo">
+
 # Работа с Git и Github
 
 ## 1. Проверка наличий установленного Git
