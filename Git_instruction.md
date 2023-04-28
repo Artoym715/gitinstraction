@@ -284,7 +284,8 @@ git branch -D <имя ветки>
 git remote add origin git@github.com:Artoym715/Test-1.git
 ```
 
-`origin` - псевдоним удаленного репозитория
+`origin` - псевдоним удаленного репозитория  
+`git@github.com:Artoym715/Test-1.git` - url адрес репозитория в сети
 
 2. Переименовать ветку **master** в **main**:
 
