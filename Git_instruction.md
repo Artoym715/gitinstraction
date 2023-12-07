@@ -814,10 +814,10 @@ git cherry-pick D
 
 Существует 2 наиболее распостраненные моодели ветвления в Git `git flow` и `trunk-based`.
 
-# Модель git flow
+### Модель git flow
 
 <image src="img/12.jpg" alt="git-flow">
 
-# Модель trunk-based development (TBD)
+### Модель trunk-based development (TBD)
 
 <image src="img/13.png" alt="TBD">
