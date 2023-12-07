@@ -809,3 +809,15 @@ git cherry-pick D
 Ветка, в которую вы переносите нужный вам коммит, будет содержать все изменения из коммита `D`, но не будет содержать изменения из коммита `C` :
 
 <image src="img/11.jpg" alt="git cherry-pick">
+
+## 21. Работа в команде
+
+Существует 2 наиболее распостраненные моодели ветвления в Git `git flow` и `trunk-based`.
+
+# Модель git flow
+
+<image src="img/12.jpg" alt="git-flow">
+
+# Модель trunk-based development (TBD)
+
+<image src="img/13.png" alt="TBD">
