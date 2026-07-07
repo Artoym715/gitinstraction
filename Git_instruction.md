@@ -160,7 +160,7 @@ git blame index.html
 <image src="img/3.jpg" alt="gitdiff">
 
 ## 10. Ветки в Git
-привет
+
 
 По умолчанию имя основной ветки в Git - **main** (или **master** в старых репозиториях).
 
