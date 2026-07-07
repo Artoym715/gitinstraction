@@ -840,7 +840,7 @@ git checkout HEAD@{3}
 
 Если в одной и той же точке вы часто сталкиваетесь с конфликтами, включите rerere:
 ```
-git config —global rerere.enabled true
+git config --global rerere.enabled true
 ```
  при повторном конфликте Git запомнит ваше решение
 
